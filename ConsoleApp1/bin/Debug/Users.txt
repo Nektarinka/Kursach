@@ -1,0 +1,4 @@
+{"Login":"wadim","Password":"12345","Id":0}
+{"Login":"vadin","Password":"123","Id":0}
+{"Login":"wadim ","Password":"12345","Id":0}
+{"Login":"123","Password":"123","Id":0}
